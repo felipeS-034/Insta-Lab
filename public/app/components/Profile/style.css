@@ -1,0 +1,132 @@
+.cartapost{
+    border-bottom: 1px solid #d6d6d6;
+    border-top: 1px solid #d6d6d6;
+    border-left: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+    position: absolute;
+    overflow: visible;
+    margin-left: 500px;
+    margin-top: 150px;
+    padding-bottom: 100px;
+    width: 350px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.perfil{
+    position: absolute;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.contenido{
+    position: absolute;
+    width: 352px;
+    object-fit: cover;
+    margin-top: 80px;
+}
+.nameuser{
+    font-family: Poppins;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    font-size: 10px;
+    margin-left: 60px;
+}
+
+.location{
+    font-family: Poppins;
+    color: black;
+    position:absolute;
+    font-size: 10px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+
+.like{
+    font-family: Poppins;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    font-size: 10px;
+    margin-top: 400px;
+    margin-left: 60px;
+}
+
+.comentuser{
+    font-family: Poppins;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    font-size: 10px;
+    margin-top: 420px;
+    margin-left: 60px;
+    
+}
+
+
+
+.views{
+    font-family: Poppins;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    font-size: 10px;
+    margin-top: 430px;
+    margin-left: 60px;
+} 
+
+
+
+.day{
+    font-family: Poppins;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    font-size: 10px;
+    margin-top: 430px;
+    margin-left: 60px;
+}
+
+
+.points{
+    width: 15px;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 60px;
+
+}
+
+.Corazon{
+    width: 20px;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 60px;
+}
+
+.compartir{
+    width: 20px;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 60px;
+}
+
+.coment{
+    width: 25px;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 60px;
+}
+
+.guardar{
+    width: 20px;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 60px;
+}
+
+.cont{
+    width: 20px;
+    position:absolute;
+    margin-top: 430px;
+    margin-left: 60px;
+}
