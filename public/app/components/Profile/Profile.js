@@ -45,22 +45,22 @@ class MyProfile extends HTMLElement {
             this.shadowRoot.innerHTML = `
             <link rel="stylesheet" href="./app/components/Profile/style.css"
             <section>
-            <div class="cartapost">
-            <image class="points"src="./Images/Post/botones/3points.png"></image>
-            <image class="Corazon" src="./Images/Post/botones/like.png"></image>
-            <image class="compartir" src="./Images/Post/botones/Share.png"></image>
-            <image class="coment" src="./Images/Post/botones/Comments.png"></image>
-            <image class="guardar" src="./Images/Post/botones/Save.png"></image>
-            <image class="cont" src="./Images/Post/botones/contenido.jpg"></image>
+                <div class="cartapost">
+                    <image class="points"src="./Images/Post/botones/3points.png"></image>
+                    <image class="Corazon" src="./Images/Post/botones/like.png"></image>
+                    <image class="compartir" src="./Images/Post/botones/Share.png"></image>
+                    <image class="coment" src="./Images/Post/botones/Comments.png"></image>
+                    <image class="guardar" src="./Images/Post/botones/Save.png"></image>
+                    <image class="cont" src="./Images/Post/botones/contenido.jpg"></image>
 
-            <img class="perfil"src="${this.imageprofile}"></img>
-            <h1 class="nameuser">${this.nameuser}</h1>
-              <h1 class="location ">${this.location}</h1>
-              <image class="contenido"src="${this.imagecontent}"></image>
-              <h1 class="like"><b>${this.likes} Likes</b></h1>
-              <h1 class="comentuser"><b>${this.comentuser1}</b> ${this.comentuser2}</h1>
-              <h1 class="views">${this.viewcoments}</h1>
-              <h1 class="day">${this.days}</h1>
+                    <img class="perfil"src="${this.imageprofile}"></img>
+                    <h1 class="nameuser">${this.nameuser}</h1>
+                    <h1 class="location ">${this.location}</h1>
+                    <image class="contenido"src="${this.imagecontent}"></image>
+                    <h1 class="like"><b>${this.likes} Likes</b></h1>
+                    <h1 class="comentuser"><b>${this.comentuser1}</b> ${this.comentuser2}</h1>
+                    <h1 class="views">${this.viewcoments}</h1>
+                    <h1 class="day">${this.days}</h1>
               </div>
           </section>
             `;

@@ -1,14 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 .cuadradoPrincipal{
-    position: absolute;
-    display: flex;
-    width: 400px;
+    position: relative;
+    width: 200px;
     height: 100px;
     background: rgba(248, 44, 238, 0);
-    margin-left: 980px;
+    left: 980px;
     margin-top: 35px;
 }
 
